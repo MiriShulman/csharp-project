@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRlLsfxVUyPDL1qfiPQjOfM284e0vNd4ZCxp1OoRp5H9XNNBc+bOGTJj2y7IfN2VSoPtOYYcx92DiGDRg5jdxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Documents\\מירי לימודים\\יד\\c# מתקדם\\‏‏‏‏DotNet2025_3565_6776 - מעודכן\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

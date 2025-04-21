@@ -1,0 +1,30 @@
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.exe
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.dll
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.pdb
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.dll
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.pdb
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\Users\teacher\Desktop\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\ref\Properties.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.exe
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.deps.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\bin\Debug\net6.0\Properties.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\refint\Properties.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\1 סוגי שדות במחלקה\Properties_Solution\Properties\obj\Debug\net6.0\ref\Properties.dll

@@ -1,0 +1,12 @@
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.AssemblyReference.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\4 מבוא לדוט נט\MySolution\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll

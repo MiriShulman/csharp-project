@@ -1,0 +1,15 @@
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\bin\Debug\net6.0\Parameters.exe
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\bin\Debug\net6.0\Parameters.deps.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\bin\Debug\net6.0\Parameters.runtimeconfig.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\bin\Debug\net6.0\Parameters.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\bin\Debug\net6.0\Parameters.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.AssemblyReference.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfoInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfo.cs
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\refint\Parameters.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\Parameters.genruntimeconfig.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\2 שליחת פרמטרים לפונקציה\Parameters\Parameters\obj\Debug\net6.0\ref\Parameters.dll

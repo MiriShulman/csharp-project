@@ -1,0 +1,15 @@
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\bin\Debug\net6.0\StructAndRecord.exe
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\bin\Debug\net6.0\StructAndRecord.deps.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\bin\Debug\net6.0\StructAndRecord.runtimeconfig.json
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\bin\Debug\net6.0\StructAndRecord.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\bin\Debug\net6.0\StructAndRecord.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.csproj.AssemblyReference.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.AssemblyInfoInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.AssemblyInfo.cs
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\refint\StructAndRecord.dll
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.pdb
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\StructAndRecord.genruntimeconfig.cache
+Z:\Handasa\mora\פריש\יד שבבים א\C# מתקדם\5 struct, record\StructAndRecord\StructAndRecord\obj\Debug\net6.0\ref\StructAndRecord.dll
